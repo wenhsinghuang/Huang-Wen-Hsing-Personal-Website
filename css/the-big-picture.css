@@ -26,3 +26,14 @@ section{
 .container-fluid{
   height: 100%;
 }
+
+@media (max-width: 640px) {
+  body {
+    /*Photo by Thomas Tucker on Unsplash*/
+    background: url("../vendor/img/jon-flobrant-DtHfpcvPBVI-unsplash-compressed.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+}
