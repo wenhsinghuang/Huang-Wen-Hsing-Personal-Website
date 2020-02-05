@@ -5,7 +5,7 @@
  */
 body {
   /*Photo by Thomas Tucker on Unsplash*/
-  background: url("../vendor/img/thomas-tucker-au3CYbd7vCU-unsplash-compress.jpg") no-repeat center center fixed;
+  background: url("../vendor/img/thomas-tucker-au3CYbd7vCU-unsplash-compressed.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
